@@ -1,0 +1,35 @@
+Java: полное руководство
+Шилдт, Герберт
+NLR01 016229596
+978-5-907458-86-4
+true
+bebra
+
+Java: карманный справочник: скорая помощь для программистов на Java
+Лигуори, Роберт; Лигуори, Патриция
+NLR01 011692110
+978-5-9500296-7-7
+false
+none
+
+gfgfgf
+ffff
+fff
+fff
+true
+bebra
+
+gfgfgg
+gfgfgf
+gfgg
+gfgf
+false
+none
+
+gg
+gg
+gg
+gg
+false
+none
+
